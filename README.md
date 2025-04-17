@@ -1,0 +1,2 @@
+# scoutingreport
+sample scouting
